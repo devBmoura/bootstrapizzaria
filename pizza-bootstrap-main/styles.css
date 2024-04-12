@@ -1,0 +1,123 @@
+
+
+*{
+    font-family: "Roboto Slab", serif;
+}
+.imagens{
+    padding-top: 10px;
+}
+.imagens img{
+    width: 325px;
+    height: 225px;
+    border-radius: 10px;
+}
+.pic img{
+    width: 325px;
+    height: 300px;
+    border-radius: 10px;
+}
+.slidess{
+    height: 700px;
+}
+.slidess img{
+    height: 700px;
+}
+.menu{
+    font-size: 18px;
+    background-color: rgb(236, 211, 177);
+}
+.sas{
+    padding-top: 20px ;
+    padding-left: 20px;
+}
+.menu img{
+    width: auto;
+    height: 90px;
+}
+.men{
+    background-color: rgb(236, 211, 177);
+}
+.men :hover{
+    background-color: rgb(184, 144, 91);
+    color: white;
+}
+#rodape{
+    background-color: rgb(236, 211, 177);;
+    padding: 1px;
+    text-align: center;
+}
+.rodape2{
+    display: inline-block;
+    width: 400px;
+  }
+
+.rodape2 img{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+
+  }
+#rodape3 hr{
+    border-color: black;
+}
+#rodape3, h5, h4{
+    padding: 10px;
+}
+#menu2 ul{
+    list-style: none;
+}
+#menu2 ul li{
+    
+    padding: 4px;
+}
+#menu2 ul li a {   
+    padding: 10px;
+   text-decoration: none;
+   color: rgb(15, 15, 15);
+
+}
+#menu2 ul li a:hover{
+    color: white;
+}
+.texto{
+    text-align: center;
+}
+.texto p{
+    font-size: 13px;
+}
+#sep{
+    margin: 40px;
+    margin-left: 407px;
+}
+.mapa{
+    margin-top: 52px;
+    text-align: center;
+}
+.video{
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+.text h4{
+    font-size: 18px;
+    margin-left: 200px;
+    padding-left: 10px;
+    padding-top: 85px;
+    text-align: justify;
+}
+.int{
+    padding: 60px;
+    text-align: center;
+}
+.int img{
+    padding-top: 10px;
+    height: 350px;
+    width: 550px;
+}
+.geral{
+    text-align: center;
+}
+.row img{
+    width: 40px;
+    height: 40px;
+}

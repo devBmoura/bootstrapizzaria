@@ -1,0 +1,97 @@
+
+*{
+    font-family: "Roboto Slab", serif;
+}
+.imagens{
+    padding-top: 10px;
+}
+.imagens img{
+    width: 325px;
+    height: 225px;
+    border-radius: 10px;
+}
+.pic img{
+    width: 325px;
+    height: 300px;
+    border-radius: 10px;
+}
+.slidess{
+    height: 700px;
+}
+.slidess img{
+    height: 700px;
+}
+.menu{
+    background-color: rgb(236, 211, 177);
+}
+.menu img{
+    width: auto;
+    height: 100px;
+}
+.men{
+    background-color: rgb(236, 211, 177);
+}
+.men :hover{
+    background-color: rgb(184, 144, 91);
+    color: white;
+}
+#rodape{
+    background-color: rgb(236, 211, 177);;
+    padding: 1px;
+    text-align: center;
+}
+.rodape2{
+    display: inline-block;
+    width: 400px;
+  }
+
+.rodape2 img{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+
+  }
+#rodape3 hr{
+    border-color: black;
+}
+#rodape3, h5, h4{
+    padding: 10px;
+}
+#menu2 ul{
+    list-style: none;
+}
+#menu2 ul li{
+    
+    padding: 4px;
+}
+#menu2 ul li a {   
+    padding: 10px;
+   text-decoration: none;
+   color: rgb(15, 15, 15);
+
+}
+#menu2 ul li a:hover{
+    color: white;
+}
+.texto{
+    text-align: center;
+}
+.texto p{
+    font-size: 13px;
+}
+#sep{
+    margin: 40px;
+    margin-left: 407px;
+}
+.mapa{
+    margin-top: 30px;
+}
+.video{
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+#sobreid {
+    height: 400px;
+    width: 400px;
+}
